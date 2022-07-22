@@ -52,7 +52,7 @@ openrtx_src = ['openrtx/src/core/state.c',
                'openrtx/src/protocols/M17/M17FrameEncoder.cpp',
                'openrtx/src/protocols/M17/M17FrameDecoder.cpp',
                'openrtx/src/protocols/M17/M17Transmitter.cpp',
-               'openrtx/src/protocols/M17/M17LinkSetupFrame.cpp']
+               'openrtx/src/protocols/M17/M17LinkSetupFrame.cpp',]
 
 openrtx_inc = ['openrtx/include',
                'openrtx/include/rtx',
